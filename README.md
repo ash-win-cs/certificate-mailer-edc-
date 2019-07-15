@@ -11,13 +11,13 @@ Add the list (CSV Format only) and save it in the same folder as 'list.csv'
 Make sure that the csv file contains columns with header "Name" and "Email"
 
 Then: 
-''''bash
+```bash
 python certificate-mailer.py
-''''
+```
 ###OR
-''''bash
+```bash
 python3 certificate-mailer.py
-''''
+```
 
 ### References 
 https://github.com/kunalgrover05/Certificate-sender
