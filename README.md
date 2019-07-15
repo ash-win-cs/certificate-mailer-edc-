@@ -14,7 +14,7 @@ Then:
 ```bash
 python certificate-mailer.py
 ```
-###OR
+### OR
 ```bash
 python3 certificate-mailer.py
 ```
